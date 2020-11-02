@@ -1,2 +1,3 @@
 i am mac
 i am mini
+i am test file
